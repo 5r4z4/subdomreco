@@ -68,6 +68,3 @@ Aquatone screenshots will be saved in the default `aquatone_report` directory.
 * `sudo` privileges
 * Internet connection
 
-## 🧾 License
-
-This project is licensed under the [MIT License](LICENSE).
